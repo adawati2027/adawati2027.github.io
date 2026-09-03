@@ -1,0 +1,16 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://adawati2027.github.io/my-tools-site/sitemap.xml
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
